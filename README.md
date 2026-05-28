@@ -1,18 +1,3 @@
-# Rechenzentrum Portfolio
-
-Aufgebaut von Tracy — Vorbereitung für Google Dietzenbach.
-
-## Projekte
-- Nginx Webserver
-- Prometheus + Grafana Monitoring
-- Automatisches Backup Script
-
-## Skills
-- Linux Administration
-- Server Monitoring
-- Bash Scripting
-- SSH & SCP
-
 # Rechenzentrum Portfolio 🖥️
 
 Aufgebaut von Tracy — Vorbereitung für Google Dietzenbach.
@@ -30,17 +15,4 @@ Aufgebaut von Tracy — Vorbereitung für Google Dietzenbach.
 - Server Monitoring
 - Bash Scripting
 - SSH & SCP
-- Git & GitHub# Rechenzentrum Portfolio
-
-Aufgebaut von Tracy — Vorbereitung für Google Dietzenbach.
-
-## Projekte
-- Nginx Webserver
-- Prometheus + Grafana Monitoring
-- Automatisches Backup Script
-
-## Skills
-- Linux Administration
-- Server Monitoring
-- Bash Scripting
-- SSH & SCP
+- Git & GitHub
