@@ -1,4 +1,9 @@
+
 # Rechenzentrum Portfolio 🖥️
+
+## About
+Self-hosted Linux infrastructure project built as preparation 
+for Google Data Center operations role in Dietzenbach, Germany.
 
 Aufgebaut von Tracy — Vorbereitung für Google Dietzenbach.
 
