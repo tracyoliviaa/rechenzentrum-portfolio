@@ -18,5 +18,10 @@
 - `ssh-keygen -t ed25519` - SSH Key erstellen
 - `ssh-copy-id` - Key auf Server kopieren
 
+## SSH Config
+- Shortcut eingerichtet: `ssh pimartina` statt `ssh pi@192.168.0.11`
+- Config Datei: ~/.ssh/config
+
+
 ## Datum
 Mai 2026
