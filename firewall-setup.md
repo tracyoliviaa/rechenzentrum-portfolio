@@ -60,7 +60,11 @@ Juni 2026- `sudo ufw enable` - Firewall einschalten
 - `sudo fail2ban-client status sshd` - SSH Details
 
 
-
+## fail2ban
+- Installiert und aktiv
+- SSH wird überwacht
+- Nach 5 falschen Versuchen: IP gesperrt für 1 Stunde
+- Status prüfen: `sudo fail2ban-client status sshd`
 
 
 ## Datum
