@@ -16,5 +16,14 @@
 - `sudo ufw enable` - Firewall einschalten
 - `sudo ufw disable` - Firewall ausschalten
 
+## fail2ban
+- Installiert und aktiv
+- Überwacht SSH automatisch
+- Blockt IPs nach zu vielen falschen Passwort-Versuchen
+
+### Wichtige Befehle
+- `sudo fail2ban-client status` - Übersicht
+- `sudo fail2ban-client status sshd` - SSH Details
+
 ## Datum
 Juni 2026
